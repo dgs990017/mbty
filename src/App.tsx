@@ -14,7 +14,7 @@ const apps = [
      {
     id: 2,
     name: "星空体育",
-    description: "1111",
+    description: "",
     iconUrl: "https://pic1.imgdb.cn/item/69a40ac1ac80c84bfd15ae58.png",
     url: "https://www.8ahmna.vip:9003/register/?agent_code=55699651",
   },
