@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Sparkles, Star, Zap } from 'lucide-react';
 
-const marqueeText = "美博体育";
+const marqueeText = "";
 
 const apps = [
      {
