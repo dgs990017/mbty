@@ -15,7 +15,7 @@ const marqueeText = "";
 
 const apps = [
      {
-    id: 1,
+    id: 1 ,
     name: "米兰体育",
     description: "",
     iconUrl: "https://pic1.imgdb.cn/item/699c510a7aea005f38310220.jpg",
